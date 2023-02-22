@@ -10,4 +10,4 @@ Open command prompt in the directory and type the command below and then press e
 php artisan serve
 ```
 
-Note: This program run on localhost:8000
+<b> Note: This program run on <span style="color:red"> localhost:8000 </span> </b>
